@@ -22,7 +22,3 @@ The purpose of this project is to develop a computer-based system for the early 
 - Enhanced clinical decision-making by providing healthcare professionals with reliable diagnostic assistance.
 - Potential for improved patient outcomes through timely diagnosis and treatment.
 
-## Future Directions
-- Integration of additional data sources and advanced imaging techniques to further improve classification accuracy.
-- Exploration of deep learning architectures and algorithms for more robust and efficient skin lesion classification.
-- Collaboration with healthcare institutions for real-world validation and deployment of the developed system.
